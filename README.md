@@ -7,6 +7,12 @@ Isso é um painel onde você pode destruir servidores do discord precisando de a
 
 baixe o arquivo abaixo para utilizar o painel
 
+extraia o arquivo e abra a pasta chamada de raid.py
+
+e abra o arquivo raid.py
+
+
+
 https://www.mediafire.com/file/ivs83uturvd2j1m/raid.py.7z/file
 
 com isso adicione o bot no seu servidor que quer raidar ou nukar(obs precisa de admin ou staff no servidor)
