@@ -9,7 +9,7 @@ baixe o arquivo abaixo para utilizar o painel
 
 extraia o arquivo e abra a pasta chamada de raid.py
 
-e abra o arquivo raid.py
+e abra o arquivo raid.py com o termux ou cmd
 
 
 
